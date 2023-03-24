@@ -1,0 +1,144 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap");
+
+/* start off by defaulting all margin/padding/border settings to 0/none */
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+    color: #141414;
+}
+
+/* headings and logo */
+h1,
+h2,
+h3 {
+   font-family: Oswald, sans-serif;
+   letter-spacing: 0.25rem;
+   color: #141414;
+}
+
+h3 {
+   letter-spacing: 0.125rem;
+   text-transform: uppercase;
+}
+
+hr {
+    border-top: 0.125rem solid #3a3a3a;
+    width: 100%;
+    margin: 0.3125rem 0 0.625rem;
+}
+ 
+.active {
+    border-bottom: 0.0625rem solid #141414;
+}
+
+.button {
+    background-color: #ee901d;
+    border: none;
+    color: #fafafa;
+    padding: 1.25rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.25rem;
+    border-radius: 0.5rem;
+    font-weight: bold;
+    box-shadow: 0.3125rem 0.625rem #888888;
+    margin-top: 1.875rem;
+}
+ 
+ .button:hover {
+    background-color: #f57309;
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
+    margin-left: 1.875rem;
+}
+
+#menu {
+    font-size: 100%;
+    font-weight: 600;
+    letter-spacing: 0.125rem;
+    float: right;
+}
+ 
+ #menu,
+ #logo {
+    line-height: 4.6875rem;
+}
+ 
+#menu li {
+    float: left;
+    list-style-type: none;
+    margin-right: 1.875rem;
+}
+ 
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+ 
+#menu a:hover {
+    border-bottom: 0.0625rem solid #141414;
+}
+
+/* hero image and text */
+#hero-outer {
+    height: 37.5rem;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+ 
+#hero-image {
+    height: 37.5rem;
+    width: 100%;
+    background: url("assets/images/hero-image 1.png") no-repeat center center;
+    animation: hero-fade-in 5s;
+    /* animates fade-in effect on loading page */
+}
+
+/* creates the fade-in for the hero image */
+@keyframes hero-fade-in {
+    0% {
+       opacity: 0.5;
+    }
+ 
+    100% {
+       opacity: 1;
+    }
+}
+
+#welcome-text {
+    letter-spacing: 0.25rem;
+    padding: 2.5rem;
+    background-color: rgba(243, 184, 142, 0.8);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+#welcome-text h2 {
+    color: #fff;
+    font-size: 150%;
+}
+ 
+#welcome-text h3 {
+    color: #fff;
+    font-size: 450%;
+    font-weight: bold;
+    line-height: 1;
+    padding-top: 1.875rem;
+}
+
