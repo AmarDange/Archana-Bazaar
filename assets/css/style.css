@@ -562,6 +562,35 @@ footer {
     }
 }
 
+/* For very small screen sizes from 28.125rem wide and down */
+@media screen and (max-width: 28.125rem) {
+   
+    #contact-panel-left,
+    #contact-panel-right {
+       width: 15.75rem;
+       height: 41.25rem;
+       padding: 2rem 1.5rem;
+    }
+ 
+    #welcome-text {
+       padding: 2rem 0.625rem;
+    }
+ 
+    #welcome-text h3 {
+       font-size: 400%
+    }
+}
+ 
+ /* For very small screen sizes re-size the flip-cards */
+@media screen and (max-width: 20rem) {
+ 
+    .flip-card,
+    .flip-card-front img {
+       width: 18.75rem;
+       height: 18.75rem;
+    }
+}
+
 
 
 
