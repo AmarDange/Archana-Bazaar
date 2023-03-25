@@ -466,6 +466,72 @@ footer {
     float: left;
 }
 
+#contact-panel-right {
+    width: 37.5rem;
+    float: right;
+}
+
+.text-input {
+    background: transparent;
+    font-family: Lato, sans-serif;
+    font-size: 100%;
+    font-weight: 600;
+    width: 100%;
+    margin: 0.3125rem 0 1.25rem 0;
+    border: 0.0625rem solid #141414;
+    border-radius: 0.125rem;
+    padding: 0.3125rem;
+    letter-spacing: 0.06875rem;
+}
+
+.text-input:hover {
+    border-color: #fafafa;
+}
+
+.text-input-line {
+    height: 1.56rem;
+}
+
+.text-input-box {
+    height: 9.375rem;
+    resize: none;
+}
+
+.radio-label {
+    margin-right: 0.625rem;
+}
+
+#location-map {
+    width: 100%;
+    height: 23.125rem;
+}
+
+#location-iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    scroll-behavior: unset;
+    margin: 0;
+}
+
+/* For larger to medium screens size from 81.25rem wide and down */
+@media screen and (max-width: 81.25rem) {
+    #contact-panel-container {
+       width: 100%;
+       display: block;
+    }
+ 
+    #contact-panel-left {
+       margin: auto;
+       float: none;
+    }
+ 
+    #contact-panel-right {
+       margin: 4.6875rem auto;
+       float: none;
+    }
+ }
+
 
 
 
