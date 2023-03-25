@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    /* background-color: #e5b5b5; */
 }
 
 body {
@@ -419,6 +420,50 @@ footer {
     font-weight: bold;
     font-size: 1.17rem;
     line-height: 1.2;
+}
+
+.carte-footer p {
+    flex: 0 100%;
+    text-align: center;
+}
+
+
+/* styling for the contact form */
+#contact-section {
+    background-image: url("../images/times-background2.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+    min-height: 56.25rem;
+}
+
+#contact-panel-container {
+    width: 75rem;
+    margin: 4.6875rem auto;
+}
+
+.contact-panel {
+    text-align: left;
+    font-weight: 600;
+    letter-spacing: 0.06875rem;
+    font-size: 110%;
+    background-color: rgba(243, 184, 142, 0.9);
+    border-radius: 0.625rem;
+    padding: 1.875rem;
+    height: 40.5rem;
+}
+
+.contact-panel h2 {
+    text-transform: uppercase;
+    font-size: 180%;
+    padding-bottom: 1.25rem;
+}
+
+#contact-panel-left {
+    width: 25rem;
+    float: left;
 }
 
 
