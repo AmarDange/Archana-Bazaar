@@ -16,13 +16,19 @@ body {
 
 /* headings and logo */
 h1,
-h2,
+/* h2, */
 h3 {
    font-family: Oswald, sans-serif;
    letter-spacing: 0.25rem;
    color: #141414;
 }
 
+
+h2 {
+   font-family: Bradley Hand ITC;
+   letter-spacing: 0.25rem;
+   color: #141414;
+}
 h3 {
    letter-spacing: 0.125rem;
    text-transform: uppercase;
@@ -101,7 +107,7 @@ hr {
 #hero-image {
     height: 37.5rem;
     width: 100%;
-    background: url("../images/times-background2.jpg") no-repeat center center;
+    background: url("../images/gallery-photo8.jpg") no-repeat center center;
     animation: hero-fade-in 5s;
     /* animates fade-in effect on loading page */
 }
@@ -120,23 +126,23 @@ hr {
 #welcome-text {
     letter-spacing: 0.25rem;
     padding: 2.5rem;
-    background-color: rgba(199, 243, 142, 0.441);
+    background-color: rgba(173, 237, 224, 0.978);
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    color: #fff;
+    color: #fb2376;
     text-transform: uppercase;
 }
 
 #welcome-text h2 {
-    color: #fff;
+    color: #fb2376;
     font-size: 150%;
 }
  
 #welcome-text h3 {
-    color: #fff;
+    color: #fb2376;
     font-size: 450%;
     font-weight: bold;
     line-height: 1;
@@ -321,7 +327,7 @@ footer {
 
 /* this is styling for the food menu page  */
 #carte-section {
-    background-image: url("../images/times-background2.jpg");
+    background-image: url("../images/gallery-photo8.jpg");
     background-repeat: no-repeat;
     background-size: auto;
     background-position: center;
@@ -337,9 +343,10 @@ footer {
     text-align: center;
     font-size: 280%;
     text-transform: uppercase;
-    max-width: 65.625rem;
+    max-width: 68.625rem;
     margin: 3.125rem auto 0 auto;
-    color: #fff;
+    color: #000000;
+    border-radius: 4.200rem;
 }
 
 .wrapper-carte {
@@ -430,7 +437,7 @@ footer {
 
 /* styling for the contact form */
 #contact-section {
-    background-image: url("../images/times-background2.jpg");
+    background-image: url("../images/gallery-photo8.jpg");
     background-repeat: no-repeat;
     background-size: auto;
     background-position: center;
