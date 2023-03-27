@@ -100,3 +100,16 @@ Archana Bazar is a site that advertises educational book store. This website con
 
       ![Find Us](Findus)
 
+- __How these features support the User Stories__
+
+    - The User Stories in the [User Experience (UX)](#user-experience-ux) part of this document are numbered and categorised into groups A (first time visitor), B (returning visitor) and C (frequent visitor).  The existing features are listed above as F01 to F08.  Below is a traceability matrix cross-referencing the user stories with the features, illustrating which features support which stories :
+
+    ![User Story Feature Matrix](Feature Matrix)
+
+### Features which could be implemented in the future
+
+- __Company Timeline__
+    - A 'Company Timeline' page could be added to provide more information on the evolution of the business for users who would like to know more about the origins of the company, its ethos and its involvement with the community.
+
+- __Navigation bar improvements__
+    - The functionality of the navigation bar could be extended to make it "sticky" so that it would be available to the user without scrolling.
