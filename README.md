@@ -144,12 +144,10 @@ Archana Bazar is a site that advertises educational book store. This website con
 ## Design
 
 -   ### Imagery
-    -   The hero and large background images have been chosen because they are eye-catching, fresh and bright.  The citrus and light pastel colours in the images were chosen to help convey a variety of available item.
+    -   The hero and large background images have been chosen because they are eye-catching, fresh and bright.  The cyan and light pastel colours in the images were chosen to help convey a variety of available item.
     
 -   ### Colour Scheme
-    -  A citrus/pastel palette was chosen to convey a fresh, energetic mood.  The colours picked were inspired by a palette from [Lily Bug Design](wall)
-
-        ![Colour Palette](palette)
+    -  Bright and bold colors were used throughout the game to draw the users attention for a specific purpose or engagement.
 
 -   ### Typography
     -   Google Fonts were used to import Lato and Oswald fonts into styles.css.  These were chosen as they work well together and have a simple, unembellished, modern feel that is easy to read.
