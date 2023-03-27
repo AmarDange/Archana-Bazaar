@@ -141,3 +141,44 @@ Archana Bazar is a site that advertises educational book store. This website con
     -   #### Contact Page Wireframes
 
         ![Contact](Contact)
+
+## Technologies Used
+
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+-   [Google Fonts:](https://fonts.google.com/) was used to import the 'Lato' and 'Oswald' fonts into the style.css file which are used on all pages of the project.
+-   [Font Awesome:](https://fontawesome.com/) was used to add icons for aesthetic and UX purposes.
+-   [Git:](https://git-scm.com/) was used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
+-   [GitHub:](https://github.com/) is used as the respository for the projects code after being pushed from Git.
+-   [Microsoft Paint 3D:](https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab) was used for resizing images and editing photos for the website.
+-   [Balsamiq:](https://balsamiq.com/) was used to create the wireframes during the design process.
+    
+
+## Testing
+
+### Validator Testing
+
+- [HTML Validator](https://validator.w3.org/)
+
+    - result for index.html
+      ![HTML results index](a)
+    - result for books.html
+      ![HTML results menu](b)
+    - result for contact.html
+      ![HTML results contact](a)
+    - result for thanks.html
+      ![HTML results contact](a)
+
+    - Full validation results are available on github here :
+
+
+- [CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+    - result for styles.css 
+     
+
