@@ -51,11 +51,10 @@ Archana Bazar is a site that advertises educational book store. This website con
      </details>
      
  -   __F02 Landing Page image and call to action__
- 
-    - The landing area includes a photograph and a text overlay that together clearly identify the purpose of the business. 
-      The cyan & pink colours and 'welcome message are intended to be appealing to the user.
-    - A large bright "See Our Books & Stationery" button is placed central to the screen as an eye-catching call to action 
-      which gives the user an obvious quick route to the page.
+
+    - The landing area includes a photograph and a text overlay that together clearly identify the purpose of the business.  The cyan and Pink colours and 'welcome' message are intended to be appealing to the user and convey a message to have a look on book list.
+
+    - A large bright "See Our Books and Stationery" button is placed central to the screen as an eye-catching call to action which gives the user an obvious quick route to the menu page.
 
       <details>
       <summary>Landing Pge</summary>
