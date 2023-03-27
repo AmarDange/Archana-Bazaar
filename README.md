@@ -63,9 +63,12 @@ Archana Bazar is a site that advertises educational book store. This website con
 
 - __F03 Tagline__
 
-    - The "A Variety of Books - the choice is yours" tagline appears on the main page and again on the Books page to let the user know that seating is available and to help re-inforce consistency in branding.
+    - The "A Variety of Educaiona Books and Stationery" tagline appears on the main page and again on the Books page to let the user know that seating is available and to help re-inforce consistency in branding.
 
-      ![Tagline](Tagline)
+      <details>
+      <summary>Tagline</summary>
+      <img src = "">
+      </details>
 
 - __F04 Company Ideals section__
 
