@@ -63,18 +63,21 @@ Archana Bazar is a site that advertises educational book store. This website con
 
 - __F03 Tagline__
 
-    - The "A Variety of Educaiona Books and Stationery" tagline appears on the main page and again on the Books page to let the user know that seating is available and to help re-inforce consistency in branding.
+    - The "A Variety of Educaional Books and Stationery" tagline appears on the main page and again on the Books page to let the user know that to help re-inforce consistency in branding.
 
       <details>
       <summary>Tagline</summary>
-      <img src = "">
+      <img src = "docs/tagline.PNG">
       </details>
 
 - __F04 Company Ideals section__
 
-    - The company ideals are presented using 4 flip cards below the tagline on the main page.  These cards give the user more information about the organisation in relation to its strategy in the areas of Availble Books, Stationary, Gifts & Gift Cards.
+    - The company ideals are presented using 4 flip cards below the tagline on the main page.  These cards give the user more information about the organisation in relation to its strategy in the areas of About us, Why Customer love us, Shop by Publishers & Charity choice for Humanity.
     
-      ![Company Ideals](Company Ideal)
+      <details>
+      <summary>Company Ideals Section</summary>
+      <img src = "docs/company ideal section.PNG">
+      </details>
 
 - __F05 Footer__
 
