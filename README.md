@@ -139,6 +139,7 @@ Archana Bazar is a site that advertises educational book store. This website con
 
 - __Navigation bar improvements__
     - The functionality of the navigation bar could be extended to make it "sticky" so that it would be available to the user without scrolling.
+    - Carte can be added to Navigation bar
 
 ## Design
 
