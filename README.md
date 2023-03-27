@@ -127,7 +127,10 @@ Archana Bazar is a site that advertises educational book store. This website con
 
     - The User Stories in the [User Experience (UX)](#user-experience-ux) part of this document are numbered and categorised into groups A (first time visitor), B (returning visitor) and C (frequent visitor).  The existing features are listed above as F01 to F08.  Below is a traceability matrix cross-referencing the user stories with the features, illustrating which features support which stories :
 
-    ![User Story Feature Matrix](Feature Matrix)
+      <details>
+      <summary>User Story Feature Matrix</summary>
+      <img src = "docs/userstoriesdocument.PNG">
+      </details>
 
 ### Features which could be implemented in the future
 
