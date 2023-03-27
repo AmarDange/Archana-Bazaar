@@ -181,4 +181,16 @@ Archana Bazar is a site that advertises educational book store. This website con
 
     - result for styles.css 
      
+### Browser Compatibility
 
+- Testing has been carried out on the following browsers :
+    - Chrome Version 90.0.4430.212 (Official Build) (64-bit)
+    - Firefox Version 88.0.1 (64-bit)
+    - Edge Version 90.0.818.62 (Official build) (64-bit)
+    - Safari on macOS Catalina (Safari  Version 14.0.3)
+    
+### Test Cases and Results
+
+- The below table details the test cases that were used, the results and a cross-reference to the Feature ID that each test case exercised (click to open iamge):
+
+  ![Test Results](Test Results)
