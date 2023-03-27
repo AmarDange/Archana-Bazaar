@@ -113,3 +113,31 @@ Archana Bazar is a site that advertises educational book store. This website con
 
 - __Navigation bar improvements__
     - The functionality of the navigation bar could be extended to make it "sticky" so that it would be available to the user without scrolling.
+
+## Design
+
+-   ### Imagery
+    -   The hero and large background images have been chosen because they are eye-catching, fresh and bright.  The citrus and light pastel colours in the images were chosen to help convey a variety of available item.
+    
+-   ### Colour Scheme
+    -  A citrus/pastel palette was chosen to convey a fresh, energetic mood.  The colours picked were inspired by a palette from [Lily Bug Design](wall)
+
+        ![Colour Palette](palette)
+
+-   ### Typography
+    -   Google Fonts were used to import Lato and Oswald fonts into styles.css.  These were chosen as they work well together and have a simple, unembellished, modern feel that is easy to read.
+
+
+-   ### Wireframes
+
+    -   #### Main Page Wireframes
+
+        ![Main](Main)
+
+    -   #### Menu Page Wireframes
+
+        ![Menu](wireframe)
+
+    -   #### Contact Page Wireframes
+
+        ![Contact](Contact)
