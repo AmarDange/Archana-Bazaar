@@ -149,6 +149,7 @@ hr {
     padding-top: 1.875rem;
 }
 
+
 #tagline {
     text-align: center;
     margin: 0;
@@ -163,7 +164,7 @@ hr {
     display: flex;
     flex-flow: row wrap;
     text-align: center;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .level1-ideals-container>div,
@@ -171,82 +172,84 @@ hr {
    display: flex;
    flex-flow: row wrap;
    text-align: center;
-   justify-content: space-around;
+   justify-content: center;
+   flex: 0 1 auto;
 }
 
 .level1-ideals-container * {
-    flex: 1 100%;
-    border-radius: 0.625rem;
+    flex: 4 25%;
+    border-radius: 3.625rem;
+    
 }
  
-.level2-ideals-container {
+/* .level2-ideals-container {
     flex: 0 1 46.875rem;
 }
  
 .level3-ideals-container {
     flex: 0 0 15.625rem;
-}
+} */
 
 /* flip-card structure to transition from image to text */
 .flip-card {
-    background-color: transparent;
+    background-color: rgb(243, 93, 155);
     width: 20rem;
-    height: 20rem;
+    height: 15rem;
     perspective: 62.5rem;
     padding: 1.56rem 0;
     margin: 0 auto;
 }
 
 /* This container is needed to position the front and back side */
-.flip-card-inner {
+/* .flip-card-inner {
     position: relative;
     width: 100%;
     height: 100%;
     text-align: center;
     transition: transform 0.8s;
     transform-style: preserve-3d;
-}
+} */
 
 /* Do a horizontal flip when you move the mouse over the flip box container */
-.flip-card:hover .flip-card-inner {
+/* .flip-card:hover .flip-card-inner {
     transform: rotateY(180deg);
-}
+} */
 
 /* Position the front and back side */
-.flip-card-front,
+/* .flip-card-front,
 .flip-card-back {
    position: absolute;
    width: 100%;
    height: 100%;
    -webkit-backface-visibility: hidden;
    /* Safari */
-   backface-visibility: hidden;
-}
+   /* backface-visibility: hidden;
+} */ */
 
 /* Style the front side (fallback if image is missing) */
-.flip-card-front {
+/* .flip-card-front {
     background-color: #fafafa;
 }
  
  .flip-card-front img {
     width: 20rem;
     height: 20rem;
-}
+} */
 
 /* Style the back of the flip-cards */
-.flip-card-back {
+/* .flip-card-back {
     transform: rotateY(180deg);
-}
+} */
  
-.flip-card-back p {
+/* .flip-card-back p {
     text-align: left;
     font-size: large;
     font-weight: bolder;
     padding: 1.25rem 3.125rem;
  
-}
+} */
 
-.flip-card-back h2 {
+/* .flip-card-back h2 {
     padding-top: 1.875rem;
 }
 
@@ -264,7 +267,7 @@ hr {
  
 #flip-card-back-4 {
     background-color: #baeade;
-}
+} */
 
 /* footer styling */
 footer {
@@ -325,7 +328,7 @@ footer {
     padding: 1.875rem;
 }
 
-/* this is styling for the food menu page  */
+/* this is styling for the Books page  */
 #carte-section {
     background-image: url("../images/gallery-photo8.jpg");
     background-repeat: no-repeat;
