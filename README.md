@@ -239,7 +239,6 @@ Archana Bazar is a site that advertises educational book store. This website con
 
 
 
-
 ### Acknowledgments
 
 - Thank you to my mentor Brian Macharia who gave me very good advice and feedback on how to plan and execute this project and who provided me with lots of pointers on resources to help select colours and images and well as resources to help with coding and testing.
