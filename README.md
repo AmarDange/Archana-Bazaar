@@ -100,8 +100,10 @@ Archana Bazar is a site that advertises educational book store. This website con
     
     - For ease of use, a consistent look and feel is maintained through the use of the same background image as is used for the landing image on the main page, and in applying the same background colour to the menu panels as is used on the overlay text area on the main page.  Text colour is kept simple for readability and to minimise distraction.
 
-       ![Menu Page](Menu Page)
-
+      <details>
+      <summary>Carte Section</summary>
+      <img src = "docs/cartesection.PNG">
+      </details>
 
 - __F07 Contact Page - 'Contact Us'__
 
