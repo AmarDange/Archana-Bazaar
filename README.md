@@ -43,9 +43,12 @@ Archana Bazar is a site that advertises educational book store. This website con
 
 -   __F01 Navigation Bar__
 
-    - The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Home page, Books and Contact links and is responsive on multiple screen sizes.  On small screens (e.g. mobile devices) the Home, Menu and Contact links move to under the Logo.
+    - The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Home page, Books       and Contact links and is responsive on multiple screen sizes.  On small screens (e.g. mobile devices) the Home, Menu and Contact links move to under the Logo.
     
-     ![Navbar](docs/Navbar.PNG)
+     <details>
+     <summary>Navigation Bar</summary>
+     <img src = "docs/Navbar.PNG">
+     </details>
      
  -   __F02 Landing Page image and call to action__
 
@@ -236,6 +239,7 @@ Archana Bazar is a site that advertises educational book store. This website con
 - The fonts used were imported from [Google Fonts](https://fonts.google.com/)
 
 - All images were downloaded from [Google]:
+
 
 
 
