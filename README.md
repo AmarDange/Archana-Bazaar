@@ -233,7 +233,7 @@ Archana Bazar is a site that advertises educational book store. This website con
 - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment
 - Any changes pushed to the master branch will take effect on the live project
 
-  The live link can be found here - [Archana Bazaar](https://) 
+  The live link can be found here - [Archana Bazaar]( https://amardange.github.io/Archana-Bazaar/) 
 
 ### How to clone the repository
 
@@ -245,7 +245,7 @@ Archana Bazar is a site that advertises educational book store. This website con
 ## Credits 
 
 ### Content 
-- Content on the menu page was loosely based on menus on []
+- Content on the menu page was loosely based on menus on [Sapna Book Shop](https://www.sapnaonline.com/)
 - All other content was written by the developer
 
 ### Code
@@ -256,14 +256,9 @@ Archana Bazar is a site that advertises educational book store. This website con
 - Code on how to implement flex boxes was based on instructions from [YouTube Flexbox Tutorial](https://www.youtube.com/watch?v=S0a7PEOi0do)
 
 ### Media 
-- The colours used were based on a citrus/pastel palette from this website : [Lily Bug Design - Colour Wall](https://www.lilybugdesign.co.nz/colour-wall) 
 - The icons in the header, footer and on the back of the flip-cards were taken from [Font Awesome](https://fontawesome.com/)
 - The fonts used were imported from [Google Fonts](https://fonts.google.com/)
-
-- All images were downloaded from [Google]:
-
-
-
+- All images were downloaded from [Google](https://www.google.de/)
 
 ### Acknowledgments
 
