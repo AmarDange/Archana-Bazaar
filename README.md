@@ -83,13 +83,16 @@ Archana Bazar is a site that advertises educational book store. This website con
 
     - The footer is featured on all three pages and is identical on each page making it easy to use.  It contains three sections :
 
-        - Opening Times - having the opening times in the footer on each page allows the user to quickly and easily find this information, this is important for this type of business as it is information that the user needs in order to make use of the company (product is sold offline).
+        - Opening Times - having the opening times in the footer on each page allows the user to quickly and easily find this information, this is important for this type of business as it is information that the user needs in order to make use of the company.
 
         - Address - similar to the opening times, the address of this type of business is important to the user in order for them to use the company and so has been repeated on each page in the footer to allow the user to quickly and easily find out where the company is located 
 
         - Stay in Touch - this area has links to social media sites associated with the organisation encouraging the user to keep connected.  The links will open in a new tab to allow easy navigation for the user. The organisation can use these sites to promote brand awareness and keep customers interested through updates, offers, chats and other marketing efforts. (As ARCHANA BAZAAR is a Book Store, the links currently just go to the social media main websites.)
 
-      ![Footer](Footer)
+      <details>
+      <summary>Footer</summary>
+      <img src = "docs/footer.PNG">
+      </details>
 
 - __F06 Books Page - 'Carte' section__
 
