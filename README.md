@@ -153,9 +153,11 @@ Archana Bazar is a site that advertises educational book store. This website con
 
 -   [Google Fonts:](https://fonts.google.com/) was used to import the 'Lato' and 'Oswald' fonts into the style.css file which are used on all pages of the project.
 -   [Font Awesome:](https://fontawesome.com/) was used to add icons for aesthetic and UX purposes.
--   [Git:](https://git-scm.com/) was used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
--   [GitHub:](https://github.com/) is used as the respository for the projects code after being pushed from Git.
--   [Microsoft Paint 3D:](https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab) was used for resizing images and editing photos for the website.
+-   [Am I responsive?](https://ui.dev/amiresponsive) - to show game across a range of devices.
+-   Git - for version control. 
+-   GitHub - to save and store the code pushed from Git.
+-   GitPod - using GitPod terminal to commit to Git and push to GitHub.
+-   [Microsoft Paint 3D:](https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab) was used for resizing images and editing photos for the      website.
 -   [Balsamiq:](https://balsamiq.com/) was used to create the wireframes during the design process.
     
 
