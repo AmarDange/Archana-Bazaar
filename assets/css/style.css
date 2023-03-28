@@ -367,7 +367,7 @@ h2 {
 .gallery-grid img {
     transition-duration: 200ms;
     transition-timing-function: ease-in-out;
-    border: 6px double var(--claret);
+    border: 6px double red;
 }
 
 .gallery-grid img:hover {
