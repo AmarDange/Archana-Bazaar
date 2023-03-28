@@ -12,7 +12,7 @@ body {
     font-family: Lato, sans-serif;
     font-weight: 300;
     color: #141414;
-    background-color: rgb(255, 214, 215);
+    background-color: rgb(214, 255, 251);
 }
 
 /* headings and logo */
@@ -327,11 +327,11 @@ h2 {
 /* Gallery Flex Grid */
 
 .gallery-text {
-    border: 1px dashed var(--claret);
+    /* border: 1px orangered; */
     padding: 30px;
     text-align: center;
     font-style: italic;
-    color: var(--black-chocolate);
+    /* color: chocolate; */
     display: flex;
     margin: auto;
     height: 50%;
@@ -361,6 +361,7 @@ h2 {
     padding: 5em 5em;
     grid-gap: 1em;
     grid-template-columns: 2fr 2fr 2fr 2fr;
+    background-color: #000000;
 
 }
 
