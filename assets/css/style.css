@@ -12,6 +12,7 @@ body {
     font-family: Lato, sans-serif;
     font-weight: 300;
     color: #141414;
+    background-color: rgb(255, 214, 215);
 }
 
 /* headings and logo */
@@ -199,6 +200,60 @@ hr {
     padding: 1.56rem 0;
     margin: 0 auto;
 }
+
+/*Workshop goals Section*/
+
+h2 {
+    text-align: center;
+    font-size: 200%;
+    padding: 30px 0px;
+}
+
+#goals-wrapper {
+    padding-top: 30px;
+    width: 100%;
+    font-size: 120%;
+
+}
+
+#goals-wrapper h3 {
+    padding-bottom: 10px;
+
+}
+
+.workshop-goals-left {
+    display: flex;
+    justify-content: space-evenly;
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.workshop-goals-right {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.text-left {
+    text-align: center;
+    line-height: 40px;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.text-right {
+    text-align: center;
+    line-height: 40px;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
 
 /* This container is needed to position the front and back side */
 /* .flip-card-inner {
