@@ -64,8 +64,11 @@ hr {
 
 #logo {
     float: left;
-    font-size: 280%;
-    margin-left: 1.875rem;
+    font-size: 225%;
+    margin-right: auto;
+    /* margin-left: 1.875rem; */
+    margin-left: auto;
+    text-align: center;
 }
 
 #menu {
@@ -524,17 +527,30 @@ footer {
        float: none;
     }
 
+        /*workshop Goals Tablet View*/
+
     .text-left {
         width:85%;
         margin:0 auto;
         padding-bottom: 10px;
     }
-
+    
     .text-right {
         width:85%;
         margin:0 auto;
         padding-bottom: 10px;
     }
+
+       /*Workshop Goals Tablet View*/
+
+    /* .text-left p {
+        padding: 0 40px;
+    }
+
+    .text-right p {
+        padding: 0 40px;
+    } */
+
     
 }
 
@@ -566,6 +582,68 @@ footer {
     #contact-panel-left {
        width: 21.875rem;
     }
+
+    /*Workshop Goals Mobile View*/
+
+    .workshop-goals-left {
+        display: block;
+        margin-bottom: 0px;
+
+    }
+
+    .workshop-goals-right {
+        display: block;
+        margin-bottom: 0px;
+    }
+
+    .text-left {
+        line-height: initial;
+    }
+
+    .text-right {
+        line-height: initial;
+    }
+
+    .text-left p {
+        font-size: 110%;
+    }
+
+    .text-right p {
+        font-size: 110%;
+    }
+
+    .image-left {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 240px;
+        width: 300px;
+    }
+
+    .image-right {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 240px;
+        width: 300px;
+    }
+
+    /*Reasons To Join Mobile View*/
+
+    .skills {
+        clear: both;
+        width: 70%;
+        position: relative;
+        left: 15%;
+    }
+
+    .skills.text h3 {
+        font-size: 120%;
+    }
+
+    .skills-text p {
+        font-size: 110%;
+    }
 }
 
 /* For very small screen sizes from 28.125rem wide and down */
@@ -585,58 +663,32 @@ footer {
     #welcome-text h3 {
        font-size: 400%
     }
+
+
 }
- 
- /* For very small screen sizes re-size the flip-cards */
-@media screen and (max-width: 20rem) {
- 
-    /* .flip-card,
-    .flip-card-front img {
-       width: 18.75rem;
-       height: 18.75rem;
+
+/* @media (min-width:650px) and (max-width:950px) { */
+
+
+    /*Workshop Goals Mobile View*/
+
+    /* .image-left {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 340px;
+        width: 430px;
+    }
+
+    .image-right {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 340px;
+        width: 430px;
     } */
-    .skills {
-        clear: both;
-        width: 70%;
-        position: relative;
-        left: 15%;
-    }
 
-    .skills.text h3 {
-        font-size: 120%;
-    }
 
-    .skills-text p {
-        font-size: 110%;
-    }
-
-    .workshop-goals-left {
-        display: block;
-        margin-bottom: 0px;
-    
-    }
-    
-    .workshop-goals-right {
-        display: block;
-        margin-bottom: 0px;
-    }
-    
-    .text-left {
-        line-height: initial;
-    }
-    
-    .text-right {
-        line-height: initial;
-    }
-    
-    .text-left p {
-        font-size: 110%;
-    }
-    
-    .text-right p {
-        font-size: 110%;
-    }
-}
-
+/* } */
 
 
