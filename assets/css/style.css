@@ -539,19 +539,7 @@ footer {
         width:85%;
         margin:0 auto;
         padding-bottom: 10px;
-    }
-
-       /*Workshop Goals Tablet View*/
-
-    /* .text-left p {
-        padding: 0 40px;
-    }
-
-    .text-right p {
-        padding: 0 40px;
-    } */
-
-    
+    }  
 }
 
  /* For small screen sizes from 46.875rem wide and down */
@@ -663,32 +651,7 @@ footer {
     #welcome-text h3 {
        font-size: 400%
     }
-
-
 }
 
-/* @media (min-width:650px) and (max-width:950px) { */
-
-
-    /*Workshop Goals Mobile View*/
-
-    /* .image-left {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        height: 340px;
-        width: 430px;
-    }
-
-    .image-right {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        height: 340px;
-        width: 430px;
-    } */
-
-
-/* } */
 
 
