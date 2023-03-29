@@ -209,6 +209,7 @@ h2 {
     flex-direction: column;
 }
 
+
 /* Gallery Flex Grid */
 .gallery-text {
     padding: 30px;
@@ -522,6 +523,19 @@ footer {
        margin: 4.6875rem auto;
        float: none;
     }
+
+    .text-left {
+        width:85%;
+        margin:0 auto;
+        padding-bottom: 10px;
+    }
+
+    .text-right {
+        width:85%;
+        margin:0 auto;
+        padding-bottom: 10px;
+    }
+    
 }
 
  /* For small screen sizes from 46.875rem wide and down */
@@ -576,17 +590,53 @@ footer {
  /* For very small screen sizes re-size the flip-cards */
 @media screen and (max-width: 20rem) {
  
-    .flip-card,
+    /* .flip-card,
     .flip-card-front img {
        width: 18.75rem;
        height: 18.75rem;
+    } */
+    .skills {
+        clear: both;
+        width: 70%;
+        position: relative;
+        left: 15%;
+    }
+
+    .skills.text h3 {
+        font-size: 120%;
+    }
+
+    .skills-text p {
+        font-size: 110%;
+    }
+
+    .workshop-goals-left {
+        display: block;
+        margin-bottom: 0px;
+    
+    }
+    
+    .workshop-goals-right {
+        display: block;
+        margin-bottom: 0px;
+    }
+    
+    .text-left {
+        line-height: initial;
+    }
+    
+    .text-right {
+        line-height: initial;
+    }
+    
+    .text-left p {
+        font-size: 110%;
+    }
+    
+    .text-right p {
+        font-size: 110%;
     }
 }
-
-
-
-
-
 
 
 
