@@ -228,9 +228,11 @@ h2 {
 .gallery-grid {
     display: grid;
     grid-gap: 2.5em;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
     padding: 2.5em;
     box-shadow: 2px 2px 7px 0 #00000080;
+    background-color: #dde4a0;
+    
 }
 
 .gallery-grid>div {
@@ -241,14 +243,6 @@ h2 {
     width: 100%;
     align-items: center;
     display: flex;
-}
-
-.gallery-grid {
-    padding: 5em 5em;
-    grid-gap: 1em;
-    grid-template-columns: 2fr 2fr 2fr 2fr;
-    background-color: #000000;
-
 }
 
 .gallery-grid img {
@@ -539,7 +533,15 @@ footer {
         width:85%;
         margin:0 auto;
         padding-bottom: 10px;
-    }  
+    }
+    
+    /*Gallery View*/
+    .gallery-grid {
+        padding: 1em 1em;
+        grid-gap: 1.5em;
+        grid-template-columns: 1fr 1fr;
+
+    }
 }
 
  /* For small screen sizes from 46.875rem wide and down */
@@ -632,6 +634,7 @@ footer {
     .skills-text p {
         font-size: 110%;
     }
+    
 }
 
 /* For very small screen sizes from 28.125rem wide and down */
