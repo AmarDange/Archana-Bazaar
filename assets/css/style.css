@@ -11,7 +11,7 @@ body {
     font-family: Lato, sans-serif;
     font-weight: 300;
     color: #141414;
-    background-color: rgb(234, 156, 156);
+    background-color: #ffeee4;
 }
 
 /* headings and logo */
@@ -64,10 +64,10 @@ hr {
 
 #logo {
     float: left;
-    font-size: 225%;
+    font-size: 200%;
     margin-right: auto;
-    /* margin-left: 1.875rem; */
-    margin-left: auto;
+    margin-left: 1.0rem;
+    /* margin-left: auto; */
     text-align: center;
 }
 
@@ -128,7 +128,7 @@ hr {
 #welcome-text {
     letter-spacing: 0.25rem;
     padding: 2.5rem;
-    background-color: rgba(220, 227, 237, 0.978);
+    background-color: #692704;
     border-radius: 5rem;
     position: absolute;
     top: 50%;
@@ -140,12 +140,12 @@ hr {
 }
 
 #welcome-text h2 {
-    color: #ff0062;
+    color: #ffffff;
     font-size: 150%;
 }
  
 #welcome-text h3 {
-    color: #ff0062;
+    color: #ffffff;
     font-size: 450%;
     font-weight: bold;
     line-height: 1;
@@ -231,7 +231,7 @@ h2 {
     grid-template-columns: 2fr 2fr 2fr 2fr;
     padding: 2.5em;
     box-shadow: 2px 2px 7px 0 #00000080;
-    background-color: #dde4a0;
+    background-color: #E5C7BC;
     
 }
 
@@ -248,7 +248,7 @@ h2 {
 .gallery-grid img {
     transition-duration: 200ms;
     transition-timing-function: ease-in-out;
-    border: 6px double red;
+    border: 6px solid rgb(245, 62, 62);
 }
 
 .gallery-grid img:hover {
@@ -332,14 +332,14 @@ footer {
 #carte-tagline {
     letter-spacing: 0.25rem;
     padding: 2.5rem;
-    background-color: rgba(166, 225, 225, 0.9);
+    background-color: #CF8B64;
     text-align: center;
-    font-size: 280%;
+    font-size: 250%;
     text-transform: uppercase;
     max-width: 60.625rem;
     margin: 3.125rem auto 0 auto;
     color: #000000;
-    border-radius: 10rem;
+    border-radius: 5rem;
 }
 
 .wrapper-carte {
@@ -368,10 +368,10 @@ footer {
 }
 
 .panel-carte {
-    background: #fafafa;
+    /* background: #fafafa; */
     flex: 0 1 21.875rem;
     margin: 1.56rem auto;
-    background-color: rgba(166, 225, 225, 0.9);
+    background-color: #692704;
 }
 
 .carte-header {
@@ -383,12 +383,13 @@ footer {
     font-family: Oswald, sans-serif;
     letter-spacing: 0.25rem;
     font-weight: bold;
+    color: #fafafa;
 }
 
 .panel-carte p {
     letter-spacing: 0.05rem;
     font-weight: 600;
-    color: #141414;
+    color: #ffffff;
 }
 
 .panel-carte span {
@@ -397,7 +398,7 @@ footer {
     font-size: 1.17rem;
     text-transform: uppercase;
     font-family: Oswald, sans-serif;
-    color: #141414;
+    color: #ff5700;
 }
 
 .carte-footer {
@@ -439,7 +440,7 @@ footer {
     font-weight: 600;
     letter-spacing: 0.06875rem;
     font-size: 110%;
-    background-color: rgba(174, 231, 174, 0.9);
+    background-color: #E5C7BC;
     border-radius: 0.625rem;
     padding: 1.875rem;
     height: 40.5rem;
@@ -564,7 +565,7 @@ footer {
     #footer-left-panel {
        clear: both;
        float: left;
-       padding-left: 3.125rem;
+       padding-left: 2.125rem;
        padding-bottom: 1rem;
     }
  
