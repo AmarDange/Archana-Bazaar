@@ -56,6 +56,7 @@ hr {
     font-weight: bold;
     box-shadow: 0.3125rem 0.625rem #888888;
     margin-top: 1.875rem;
+    cursor: pointer;
 }
  
  .button:hover {
