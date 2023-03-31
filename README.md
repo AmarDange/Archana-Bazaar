@@ -22,7 +22,7 @@ Archana Bazar is a site that advertises educational book store. This website con
 
     -   #### A. First Time Visitor Goals
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the store.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
         3. As a First Time Visitor, I want to be able to easily navigate to and view a list of books, stationary.
         4. As a First Time Visitor, I want to be able to easily find where the organisation is located.
@@ -34,7 +34,7 @@ Archana Bazar is a site that advertises educational book store. This website con
         3. As a Returning Visitor, I want to be able to contact the organisation to give feedback or ask questions.
 
     -   #### C. Frequent User Goals
-        1. As a Frequent User, I want to be able to sign-up easily for discounts.
+        1. As a Frequent User, I want to be able to "contact-us" easily for discounts & to check books availibity.
      
 
 ## Features
