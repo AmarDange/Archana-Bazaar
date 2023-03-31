@@ -269,7 +269,7 @@ Archana Bazar is a site that advertises educational book store. This website con
 ### Code
 - Code on how to do the fade-in of the hero image came from information on this page : [CSS Image fade-in tutorial](https://blog.hubspot.com/website/css-fade-in)
 - Code on how to include google map with marker was based on code from this site :  [How to embed Google Map](https://www.maps.ie/create-google-map/)
-- Code on how to implement flex boxes was based on instructions from [YouTube Flexbox Tutorial](https://www.youtube.com/watch?v=S0a7PEOi0do)
+- Code on how to implement hover image was based on instructions from [YouTube Tutorial](https://www.youtube.com/watch?v=Zz8A4NqoLrE)
 
 ### Media 
 - The icons in the header, footer and on the back of the flip-cards were taken from [Font Awesome](https://fontawesome.com/)
