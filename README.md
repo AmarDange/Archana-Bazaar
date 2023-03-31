@@ -47,7 +47,7 @@ Archana Bazar is a site that advertises educational book store. This website con
     
      <details>
      <summary>Navigation Bar</summary>
-     <img src = "docs/Navbar.PNG">
+     <img src = "docs/navigationbar.PNG">
      </details>
      
 -   #### Landing Page image and call to action
