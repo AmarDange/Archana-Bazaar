@@ -127,7 +127,7 @@ Archana Bazar is a site that advertises educational book store. This website con
     - The galler page also gives a welcome header for an impression.
     - For ease of use, added clean and bright images & is maintained through the use of the diffrent background color. Also Images are hovered over when cursor on the images.
 
-       <details>
+      <details>
       <summary>Gallery - Welcome Header</summary>
       <img src = "docs/tagline1.PNG">
       </details>
@@ -172,10 +172,10 @@ Archana Bazar is a site that advertises educational book store. This website con
 ## Design
 
 -   ### Imagery
-    -   The hero and large background images have been chosen because they are eye-catching, fresh and bright.  The cyan and light pastel colours in the images were chosen to help convey a variety of available item.
+    -   The hero and large background images have been chosen because they are eye-catching, fresh and bright.  The bright & active images were chosen to help convey a variety of available products.
     
 -   ### Colour Scheme
-    -  Bright and bold colors were used throughout the game to draw the users attention for a specific purpose or engagement.
+    -  Bright and bold colors were used throughout the page to draw the users attention for a specific purpose or engagement.
 
 -   ### Typography
     -   Google Fonts were used to import Lato and Oswald fonts into styles.css.  These were chosen as they work well together and have a simple, unembellished, modern feel that is easy to read.
@@ -228,11 +228,21 @@ Archana Bazar is a site that advertises educational book store. This website con
     
 ### Test Cases and Results
 
-- The below table details the test cases that were used, the results and a cross-reference to the Feature ID that each test case exercised (click to open iamge):
+- The below table details the test cases that were used, the results and a cross-reference to the Feature ID that each test case exercised:
 
-  ![Test Results](Test Results)
+      <details>
+      <summary>Test Case & Results</summary>
+      <img src = "docs/manual_testing.png">
+      </details>
   
 ### Known bugs
+
+- My mentor reported an issue with the overlapping text on image when viewed on an iphone during a review meeting. I could not try on it due to project submisiion deadline. I am adding an image of the issue here for completeness.
+
+<details>
+      <summary>Known bug</summary>
+      <img src = "docs/knownbug.PNG">
+      </details>
 
 ## Deployment
 
