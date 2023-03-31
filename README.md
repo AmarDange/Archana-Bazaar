@@ -281,6 +281,5 @@ Archana Bazar is a site that advertises educational book store. This website con
 - Thank you to my mentor Brian Macharia who gave me very good advice and feedback on how to plan and execute this project and who provided me with lots of pointers on resources to help select colours and images and well as resources to help with coding and testing.
 - Thank you to anyone taking the time to view my first project. Special thanks to the Slack community and the below individuals:
 I would like to thank:-
-    * My mentor Brian Macharia, for all the encouragement, advices, help and expertise.
     * My colleagues from the Code Institute who help to test my code and gave me some wonderful feedback.
 
