@@ -118,7 +118,7 @@ Archana Bazar is a site that advertises educational book store. This website con
 
       <details>
       <summary>Carte Section</summary>
-      <img src = "docs/galleryphoto1.PNG","docs/galleryphoto2.PNG'>
+      <img src = "docs/cartsection.PNG">
       </details>
       
 - #### Gallery Page 
@@ -129,7 +129,7 @@ Archana Bazar is a site that advertises educational book store. This website con
 
       <details>
       <summary>Carte Section</summary>
-      <img src = "docs/cartsection.PNG">
+      <img src = "docs/galleryphoto1.PNG","docs/galleryphoto2.PNG">
       </details>
 
 - #### Contact Page - 'Contact Us'
