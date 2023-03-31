@@ -264,6 +264,7 @@ Archana Bazar is a site that advertises educational book store. This website con
 - Content on the Book page was loosely based on menus on [Sapna Book Shop](https://www.sapnaonline.com/)
 - Images from Gallery Page taken from [Google images](https://www.google.de/search?q=books+and+stationery+image&hl=en&authuser=0&tbm=isch&sxsrf=APwXEdcUKSuAkPY9KDei2nk3dFsPne6P_g%3A1680297713032&source=hp&biw=1536&bih=754&ei=8E4nZImUPNXqkgXA9amICA&iflsig=AOEireoAAAAAZCddAbgXug9w7moKFZ2G_7cNjib09vS7&ved=0ahUKEwiJzLLijIf-AhVVtaQKHcB6CoEQ4dUDCAc&uact=5&oq=books+and+stationery+image&gs_lcp=CgNpbWcQAzIFCAAQgAQ6BwgjEOoCECc6BAgjECc6BAgAEB5Q3QNY6i1gmjBoAXAAeACAAXaIAZIMkgEEMjUuMZgBAKABAaoBC2d3cy13aXotaW1nsAEK&sclient=img)
 - All other content was written by the developer
+- Website color scheme refernce taken from [Canva](https://www.canva.com/learn/website-color-schemes/)
 
 ### Code
 - Code on how to do the fade-in of the hero image came from information on this page : [CSS Image fade-in tutorial](https://blog.hubspot.com/website/css-fade-in)
