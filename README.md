@@ -228,9 +228,9 @@ Archana Bazar is a site that advertises educational book store. This website con
     
 ### Test Cases and Results
 
-- The below table details the test cases that were used, the results and a cross-reference to the Feature ID that each test case exercised:
-
-      <details>
+    - The below table details the test cases that were used, the results and a cross-reference to the Feature ID that each test case exercised:
+    
+    <details>
       <summary>Test Case & Results</summary>
       <img src = "docs/manual_testing.png">
       </details>
