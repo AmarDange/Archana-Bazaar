@@ -128,8 +128,13 @@ Archana Bazar is a site that advertises educational book store. This website con
     - For ease of use, added clean and bright images & is maintained through the use of the diffrent background color. Also Images are hovered over when cursor on the images.
 
       <details>
-      <summary>Carte Section</summary>
+      <summary>Gallery</summary>
       <img src = "docs/galleryphoto1.PNG","docs/galleryphoto2.PNG">
+      </details>
+      
+      <details>
+      <summary>Gallery</summary>
+      <img src = "docs/galleryphoto2.PNG">
       </details>
 
 - #### Contact Page - 'Contact Us'
