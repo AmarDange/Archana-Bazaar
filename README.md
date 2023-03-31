@@ -205,14 +205,10 @@ Archana Bazar is a site that advertises educational book store. This website con
 
 - [HTML Validator](https://validator.w3.org/)
 
-    - result for index.html
-      [HTML results index](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Famardange.github.io%2FArchana-Bazaar%2Findex.html)
-    - result for books.html
-      ![HTML results Books](https://validator.w3.org/nu/?doc=https%3A%2F%2Famardange.github.io%2FArchana-Bazaar%2Fbooks.html)
-    - result for contact.html
-      ![HTML results contact](https://validator.w3.org/nu/?doc=https%3A%2F%2Famardange.github.io%2FArchana-Bazaar%2Fcontact.html)
-    - result for thanks.html
-      ![HTML results contact](a)
+    - result for [index.html](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Famardange.github.io%2FArchana-Bazaar%2Findex.html)
+    - result for [books.html](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Famardange.github.io%2FArchana-Bazaar%2Fbooks.html)
+    - result for [gallery.html](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Famardange.github.io%2FArchana-Bazaar%2Fgallery.html)
+    - result for [contact.html](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Famardange.github.io%2FArchana-Bazaar%2Fcontact.html)
 
 - [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
