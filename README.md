@@ -112,9 +112,20 @@ Archana Bazar is a site that advertises educational book store. This website con
 
 - #### Books Page - 'Carte' section
 
-    - The Book page gives a list of the products that can be purchased at ARCHANA BAZAAR.  For ease of use and clarity for the user the products have been split into three panels, one for 'Available Books', one for 'Stationary', and the third for 'Toys', 'Mugs','Gifts' and Gift Cards'.
+    - The Book page gives a list of the products that can be purchased at ARCHANA BAZAAR.  For ease of use and clarity for the user the products have been split into three panels, one for 'Available Books', one for 'Stationary', and the third for 'Toys', 'Mugs','Gifts', 'Healthcare & choclates.
     
     - For ease of use, a consistent look and feel is maintained through the use of the same background image as is used for the landing image on the main page, and in applying the same background colour to the menu panels as is used on the overlay text area on the main page.  Text colour is kept simple for readability and to minimise distraction.
+
+      <details>
+      <summary>Carte Section</summary>
+      <img src = "docs/galleryphoto1.PNG","docs/galleryphoto2.PNG'>
+      </details>
+      
+- #### Gallery Page 
+
+    - The Gallery page gives a photos of the products that can be purchased at ARCHANA BAZAAR.  For ease of use and clarity for the user the products have been shown.
+    
+    - For ease of use, added clean and bright images & is maintained through the use of the diffrent background color. Also Images are hovered over when cursor on the images.
 
       <details>
       <summary>Carte Section</summary>
