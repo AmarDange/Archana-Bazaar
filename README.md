@@ -5,7 +5,7 @@ The live link can be found here - https://amardange.github.io/Archana-Bazaar/
 
 Archana Bazar is a site that advertises educational book store. This website contains information about all types of educational books, stationery, Gifts. The vision of this site is to provide student with best best supplementary study materials and curriculum study material at affordable price and to provide students with scholastic stationary product. This website also provides an option to the user for any specific inquiry for the books via contact form.
 
-![image](docs/amiresponsive.PNG}
+![image](docs/amiresponsive.png}
 
 ## Index – Table of Contents
 * [User Experience (UX)](#user-experience-ux) 
@@ -76,7 +76,22 @@ Archana Bazar is a site that advertises educational book store. This website con
     
       <details>
       <summary>Company Ideals Section</summary>
-      <img src = "docs/company ideal section.PNG">
+      <img src = "docs/companyideal1.PNG">
+      </details>
+      
+       <details>
+      <summary>Company Ideals Section</summary>
+      <img src = "docs/companyideal2.PNG">
+      </details>
+      
+       <details>
+      <summary>Company Ideals Section</summary>
+      <img src = "docs/companyideal3.PNG">
+      </details>
+      
+       <details>
+      <summary>Company Ideals Section</summary>
+      <img src = "docs/companyideal4.PNG">
       </details>
 
 - #### Footer
@@ -102,7 +117,7 @@ Archana Bazar is a site that advertises educational book store. This website con
 
       <details>
       <summary>Carte Section</summary>
-      <img src = "docs/cartesection.PNG">
+      <img src = "docs/cartsection.PNG">
       </details>
 
 - #### Contact Page - 'Contact Us'
@@ -132,15 +147,6 @@ Archana Bazar is a site that advertises educational book store. This website con
       <img src = "docs/userstoriesdocument.PNG">
       </details>
 
-### Features which could be implemented in the future
-
-- #### Company Timeline
-    - A 'Company Timeline' page could be added to provide more information on the evolution of the business for users who would like to know more about the origins of the company, its ethos and its involvement with the community.
-
-- #### Navigation bar improvements
-    - The functionality of the navigation bar could be extended to make it "sticky" so that it would be available to the user without scrolling.
-    - Carte can be added to Navigation bar
-
 ## Design
 
 -   ### Imagery
@@ -152,20 +158,6 @@ Archana Bazar is a site that advertises educational book store. This website con
 -   ### Typography
     -   Google Fonts were used to import Lato and Oswald fonts into styles.css.  These were chosen as they work well together and have a simple, unembellished, modern feel that is easy to read.
 
-
--   ### Wireframes
-
-    -   #### Main Page Wireframes
-
-        ![Main](Main)
-
-    -   #### Menu Page Wireframes
-
-        ![Menu](wireframe)
-
-    -   #### Contact Page Wireframes
-
-        ![Contact](Contact)
 
 ## Technologies Used
 
@@ -183,7 +175,6 @@ Archana Bazar is a site that advertises educational book store. This website con
 -   GitHub - to save and store the code pushed from Git.
 -   GitPod - using GitPod terminal to commit to Git and push to GitHub.
 -   [Microsoft Paint 3D:](https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab) was used for resizing images and editing photos for the      website.
--   [Balsamiq:](https://balsamiq.com/) was used to create the wireframes during the design process.
     
 
 ## Testing
