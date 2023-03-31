@@ -270,8 +270,6 @@ Archana Bazar is a site that advertises educational book store. This website con
 
 ### Code
 - Code on how to do the fade-in of the hero image came from information on this page : [CSS Image fade-in tutorial](https://blog.hubspot.com/website/css-fade-in)
-- Code on how to do a rounded button as seen on the Home page was based on code on : [W3Schools Rounded button tutorial](https://www.w3schools.com/howto/howto_css_round_buttons.asp)
-- Code on how to do the flip-card effect on the Home page was based on example code on : [W3Schools Flip card tutorial](https://www.w3schools.com/howto/howto_css_flip_card.asp)
 - Code on how to include google map with marker was based on code from this site :  [How to embed Google Map](https://www.maps.ie/create-google-map/)
 - Code on how to implement flex boxes was based on instructions from [YouTube Flexbox Tutorial](https://www.youtube.com/watch?v=S0a7PEOi0do)
 
@@ -283,3 +281,8 @@ Archana Bazar is a site that advertises educational book store. This website con
 ### Acknowledgments
 
 - Thank you to my mentor Brian Macharia who gave me very good advice and feedback on how to plan and execute this project and who provided me with lots of pointers on resources to help select colours and images and well as resources to help with coding and testing.
+- Thank you to anyone taking the time to view my first project. Special thanks to the Slack community and the below individuals:
+I would like to thank:-
+* My mentor Brian Macharia, for all the encouragement, advices, help and expertise.
+* My colleagues from the Code Institute who help to test my code and gave me some wonderful feedback.
+
