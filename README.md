@@ -41,7 +41,7 @@ Archana Bazar is a site that advertises educational book store. This website con
 
 ### Existing Features
 
--   __ Navigation Bar__
+-   #### Navigation Bar
 
     - The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Home page, Books       and Contact links and is responsive on multiple screen sizes.  On small screens (e.g. mobile devices) the Home, Menu and Contact links move to under the Logo.
     
@@ -50,7 +50,7 @@ Archana Bazar is a site that advertises educational book store. This website con
      <img src = "docs/Navbar.PNG">
      </details>
      
--   __F02 Landing Page image and call to action__
+-   #### Landing Page image and call to action
 
     - The landing area includes a photograph and a text overlay that together clearly identify the purpose of the business.  The cyan and Pink colours and 'welcome' message are intended to be appealing to the user and convey a message to have a look on book list.
     
@@ -61,7 +61,7 @@ Archana Bazar is a site that advertises educational book store. This website con
       <img src = "docs/landingpage.PNG">
       </details>
 
-- __F03 Tagline__
+- #### Tagline
 
     - The "A Variety of Educaional Books and Stationery" tagline appears on the main page and again on the Books page to let the user know that to help re-inforce consistency in branding.
 
@@ -70,7 +70,7 @@ Archana Bazar is a site that advertises educational book store. This website con
       <img src = "docs/tagline.PNG">
       </details>
 
-- __F04 Company Ideals section__
+- #### Company Ideals section
 
     - The company ideals are presented using 4 flip cards below the tagline on the main page.  These cards give the user more information about the organisation in relation to its strategy in the areas of About us, Why Customer love us, Shop by Publishers & Charity choice for Humanity.
     
@@ -79,7 +79,7 @@ Archana Bazar is a site that advertises educational book store. This website con
       <img src = "docs/company ideal section.PNG">
       </details>
 
-- __F05 Footer__
+- #### Footer
 
     - The footer is featured on all three pages and is identical on each page making it easy to use.  It contains three sections :
 
@@ -94,7 +94,7 @@ Archana Bazar is a site that advertises educational book store. This website con
       <img src = "docs/footer.PNG">
       </details>
 
-- __F06 Books Page - 'Carte' section__
+- #### Books Page - 'Carte' section
 
     - The Book page gives a list of the products that can be purchased at ARCHANA BAZAAR.  For ease of use and clarity for the user the products have been split into three panels, one for 'Available Books', one for 'Stationary', and the third for 'Toys', 'Mugs','Gifts' and Gift Cards'.
     
@@ -105,7 +105,7 @@ Archana Bazar is a site that advertises educational book store. This website con
       <img src = "docs/cartesection.PNG">
       </details>
 
-- __F07 Contact Page - 'Contact Us'__
+- #### Contact Page - 'Contact Us'
 
     - The 'Contact Us' panel of the Contact page allows the user to send a message/give feedback to the company and if they want, sign up to the company mailing list to get discount codes and offers.  The user is asked to provide their name and email address when sending a message.  By default, the option to join the mailing list is set to 'no' - to prevent them accidentally signing up for the mailing list and getting unwanted email.  Sending the message will result in a new tab showing the results (at the moment the user is simply shown the formdump.codeinstitute.net page with the data they submitted displayed)
 
@@ -114,7 +114,7 @@ Archana Bazar is a site that advertises educational book store. This website con
       <img src = "docs/contactus.PNG">
       </details>
 
-- __F08 Contact Page - 'How to Find Us'__
+- #### Contact Page - 'How to Find Us'
 
     - The 'How to find us' panel of the Contact page gives the user an interactive google map showing the location of the company along with details on full address, phone number and administration email address in large font to make it easily readable.  By clicking the 'View larger map' link the user can go to the google maps site for the address - this opens in a separate tab to allow ease of navigation.
 
@@ -123,7 +123,7 @@ Archana Bazar is a site that advertises educational book store. This website con
       <img src = "docs/howtofindus.PNG">
       </details>
 
-- __How these features support the User Stories__
+- #### How these features support the User Stories
 
     - The User Stories in the [User Experience (UX)](#user-experience-ux) part of this document are numbered and categorised into groups A (first time visitor), B (returning visitor) and C (frequent visitor).  The existing features are listed above as F01 to F08.  Below is a traceability matrix cross-referencing the user stories with the features, illustrating which features support which stories :
 
@@ -134,10 +134,10 @@ Archana Bazar is a site that advertises educational book store. This website con
 
 ### Features which could be implemented in the future
 
-- __Company Timeline__
+- #### Company Timeline
     - A 'Company Timeline' page could be added to provide more information on the evolution of the business for users who would like to know more about the origins of the company, its ethos and its involvement with the community.
 
-- __Navigation bar improvements__
+- #### Navigation bar improvements
     - The functionality of the navigation bar could be extended to make it "sticky" so that it would be available to the user without scrolling.
     - Carte can be added to Navigation bar
 
