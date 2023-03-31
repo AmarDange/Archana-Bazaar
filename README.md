@@ -212,7 +212,7 @@ Archana Bazar is a site that advertises educational book store. This website con
 
 - [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
-    - result for styles.css 
+    - result for [styles.css](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Famardange.github.io%2FArchana-Bazaar%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) 
      
 ### Browser Compatibility
 
