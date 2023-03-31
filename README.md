@@ -31,7 +31,7 @@ Archana Bazar is a site that advertises educational book store. This website con
 
         1. As a Returning Visitor, I want to be able to access and view the books list quickly and easily.
         2. As a Returning Visitor, I want to be able to check opening times quickly and easily.
-        3. As a Returning Visitor, I want to be able to contact the organisation to give feedback or ask questions.
+        3. As a Returning Visitor, I want to be able to contact the store to give feedback or ask questions.
 
     -   #### C. Frequent User Goals
         1. As a Frequent User, I want to be able to "contact-us" easily for discounts & to check books availibity.
