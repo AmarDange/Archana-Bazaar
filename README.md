@@ -124,12 +124,17 @@ Archana Bazar is a site that advertises educational book store. This website con
 - #### Gallery Page 
 
     - The Gallery page gives a photos of the products that can be purchased at ARCHANA BAZAAR.  For ease of use and clarity for the user the products have been shown.
-    
+    - The galler page also gives a welcome header for an impression.
     - For ease of use, added clean and bright images & is maintained through the use of the diffrent background color. Also Images are hovered over when cursor on the images.
 
+       <details>
+      <summary>Gallery - Welcome Header</summary>
+      <img src = "docs/tagline1.PNG">
+      </details>
+      
       <details>
       <summary>Gallery</summary>
-      <img src = "docs/galleryphoto1.PNG","docs/galleryphoto2.PNG">
+      <img src = "docs/galleryphoto1.PNG">
       </details>
       
       <details>
